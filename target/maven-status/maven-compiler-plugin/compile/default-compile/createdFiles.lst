@@ -1,0 +1,6 @@
+com\carwash\repository\SignupRepository.class
+com\carwash\repository\LoginRepository.class
+com\carwash\entity\Logindetails.class
+com\carwash\entity\SignupDetails.class
+com\carwash\DemandCarwashApplication.class
+com\carwash\controller\CarController.class
